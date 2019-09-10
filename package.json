@@ -9,7 +9,8 @@
   },
   "keywords": [],
   "author": "Necmi Hasan",
-  "license": "ISC",
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/necmihasan/pixi-typescript-boilerplate/#readme"
   "devDependencies": {
     "@types/pixi.js": "^4.8.8",
     "clean-webpack-plugin": "^3.0.0",
