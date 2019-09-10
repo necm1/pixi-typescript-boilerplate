@@ -1,4 +1,3 @@
-a simple pixi typescript boilerplate with a isometric tilemap preview.
 # First steps
 ```
 $ npm i
