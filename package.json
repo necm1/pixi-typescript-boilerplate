@@ -21,8 +21,6 @@
     "webpack-dev-server": "^3.8.0"
   },
   "dependencies": {
-    "awesome-typescript-loader": "^5.2.1",
-    "pixi-projection": "^0.3.5",
     "pixi.js": "^5.1.2"
   }
 }
